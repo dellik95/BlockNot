@@ -1,0 +1,115 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title – приложение ASP.NET</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <style>
+        a {
+            margin: 30px;
+            padding: 13px 10px 13px 30px;
+        }
+
+        li {
+            display: inline;
+            list-style-type: none
+        }
+
+        .GeneralDiv {
+            width: 940px;
+            height: 450px;
+        }
+
+        .CenterContent {
+            align-content:center;
+            margin: 50px;
+            position:center;
+        }
+        .CenterContent td {
+           padding:30px;
+           border:1px solid black;
+        }
+    </style>
+
+    <script type="text/javascript">
+        function OnSuccess(data) {
+            console.log("Work")
+            var output = $("#UserList");
+            output.empty();
+            var mass = [];
+            for (var i = 0; i < data.length; i++) {
+                output.append("<tr><td>" + data[i].UserName + "</td><td>" +
+                    data[i].UserSname + "</td><td>" + data[i].UserEmail + "</td>");
+                for (var j = 0; j < data[i].Phones.length; j++) {
+                    $("<td>" + data[i].Phones[j].Phone + "</td></tr>").insertAfter("td:last");
+                }
+                $("<td><a data-ajax='true' data-ajax-mode='replace'  href='/Home/DeleteUser/" + data[i].User_ID + "'>Удалить</a></td></tr>").insertAfter("td:last");
+            }
+        };
+
+        function newUser() {
+            var obj = new Object();
+             obj.user = new Object();
+             obj.phones =[];
+            obj.user.UserName = $('#Name').val();
+            obj.user.UserSname = $('#SName').val();
+            obj.user.UserEmail = $('#Email').val();
+            var phones = [];
+            $('#phones :text').each(function () {
+                if ($(this).val() != "") {
+                    obj.phones.push($(this).val());
+                };
+            });
+            obj.Phones = phones;
+        
+            var users = JSON.stringify(obj);
+            alert(users);
+            $.ajax({
+                type: 'POST',
+                url: '/Home/CreateUser',
+                data: users,
+
+                contentType: 'application/json; charset=utf-8',
+                success: function (msg) {
+                    if (msg == 'True') {
+                        alert('Данные успешно приняты и обработаны контроллером!');
+                        window.location.reload(true);
+                    };
+                }
+            });
+
+
+
+            return false;
+        };
+    </script>
+
+    <div>
+        <center>
+            <ul style="">
+                <li>@Ajax.ActionLink("Список пользователей", "GetUser", new AjaxOptions { OnSuccess = "OnSuccess", UpdateTargetId = "UserList" })</li>
+
+                <li>@Ajax.ActionLink("Создание", "CreateUser", new AjaxOptions { UpdateTargetId = "Create" })</li>
+
+            </ul>
+        </center>
+    </div>
+    @RenderBody()
+    <div class="CenterContent">
+        <div class="GeneralDiv" id="UserList"></div>
+        <div class="GeneralDiv" id="Edit"></div>
+        <div class="GeneralDiv" id="Create"></div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+    @Scripts.Render("~/scripts/jquery-1.10.2.min.js")
+    @Scripts.Render("~/scripts/jquery.unobtrusive-ajax.min.js")
+</body>
+</html>

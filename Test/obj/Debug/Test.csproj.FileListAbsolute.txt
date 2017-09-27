@@ -1,0 +1,243 @@
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\ApplicationInsights.config
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\csc.exe
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\csc.exe.config
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\csc.rsp
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\csi.exe
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\csi.rsp
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\System.AppContext.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\vbc.exe
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\vbc.exe.config
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\vbc.rsp
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Test.dll.config
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Test.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Test.pdb
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Antlr3.Runtime.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\EntityFramework.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\EntityFramework.SqlServer.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.AI.Web.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Newtonsoft.Json.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.Helpers.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.Mvc.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.Optimization.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.Razor.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.WebPages.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\WebGrease.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\EntityFramework.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\EntityFramework.SqlServer.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.Helpers.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.Mvc.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.Optimization.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.Razor.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.WebPages.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Antlr3.Runtime.pdb
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Newtonsoft.Json.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\Microsoft.AI.Web.xml
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\obj\Debug\Test.dll
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\obj\Debug\Test.pdb
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\obj\Debug\Test.Migrations.AddCompanyMigration.resources
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Gloomy\Desktop\TestBlocknot\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ApplicationInsights.config
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\csc.exe
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\csc.exe.config
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\csc.rsp
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\csi.exe
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\csi.rsp
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\System.AppContext.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\System.Collections.Immutable.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\System.IO.FileSystem.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\System.Reflection.Metadata.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\vbc.exe
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\vbc.exe.config
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\vbc.rsp
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\VBCSCompiler.exe
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\VBCSCompiler.exe.config
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Test.dll.config
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Test.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Test.pdb
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Antlr3.Runtime.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\EntityFramework.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\EntityFramework.SqlServer.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.DependencyCollector.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.Web.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.WindowsServer.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.ApplicationInsights.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Newtonsoft.Json.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Helpers.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Mvc.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Optimization.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Razor.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.WebPages.Deployment.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.WebPages.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.WebPages.Razor.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\WebGrease.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\EntityFramework.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\EntityFramework.SqlServer.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Newtonsoft.Json.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Helpers.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Mvc.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Optimization.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Razor.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.WebPages.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.WebPages.Deployment.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.WebPages.Razor.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Antlr3.Runtime.pdb
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.ApplicationInsights.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.DependencyCollector.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.WindowsServer.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.Web.xml
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.Helpers.resources.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.Mvc.resources.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.Optimization.resources.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.Razor.resources.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.WebPages.resources.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.WebPages.Deployment.resources.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.WebPages.Razor.resources.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\obj\Debug\Test.Migrations.AddCompanyMigration.resources
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\obj\Debug\Test.dll
+G:\Робота\Тестові завдання\TestBlocknot\Test\Test\obj\Debug\Test.pdb
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ApplicationInsights.config
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\csc.exe
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\csc.exe.config
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\csc.rsp
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\csi.exe
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\csi.rsp
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\System.AppContext.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\System.Collections.Immutable.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\System.IO.FileSystem.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\System.Reflection.Metadata.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\vbc.exe
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\vbc.exe.config
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\vbc.rsp
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\VBCSCompiler.exe
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\roslyn\VBCSCompiler.exe.config
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Test.dll.config
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Test.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Test.pdb
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Test.dll.CodeAnalysisLog.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Test.dll.lastcodeanalysissucceeded
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Antlr3.Runtime.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\EntityFramework.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\EntityFramework.SqlServer.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.DependencyCollector.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.Web.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.WindowsServer.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.ApplicationInsights.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.Web.Infrastructure.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Newtonsoft.Json.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Helpers.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Mvc.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Optimization.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Razor.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.WebPages.Deployment.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.WebPages.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.WebPages.Razor.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\WebGrease.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\EntityFramework.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\EntityFramework.SqlServer.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Newtonsoft.Json.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Helpers.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Mvc.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Optimization.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.Razor.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.WebPages.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.WebPages.Deployment.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\System.Web.WebPages.Razor.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Antlr3.Runtime.pdb
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.ApplicationInsights.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.DependencyCollector.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.WindowsServer.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\Microsoft.AI.Web.xml
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.Helpers.resources.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.Mvc.resources.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.Optimization.resources.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.Razor.resources.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.WebPages.resources.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.WebPages.Deployment.resources.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\bin\ru\System.Web.WebPages.Razor.resources.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\obj\Debug\Test.Migrations.AddCompanyMigration.resources
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\obj\Debug\Test.dll
+F:\Робота\Тестові завдання\TestBlocknot\Test\Test\obj\Debug\Test.pdb

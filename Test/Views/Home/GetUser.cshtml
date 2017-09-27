@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Test.Users>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.UserName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserSname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserEmail)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserSname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserEmail)
+        </td>
+        @foreach (var it in item.Phones)
+        {
+            <td>
+                @Html.DisplayFor(modelItem => it.Phone)
+            </td>
+        }
+        
+        <td>@Ajax.ActionLink("Удаление", "DeleteUser", new { id = item.User_ID }, new AjaxOptions { UpdateTargetId = "UserList" })</td>
+        <td>@Ajax.ActionLink("Редактирование", "EditUser",new {id=item.User_ID }, new AjaxOptions { UpdateTargetId = "Edit" })</td>
+    </tr>
+}
+
+</table>
